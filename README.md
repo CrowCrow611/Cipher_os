@@ -13,7 +13,7 @@ to go to hack mode just type: "sudo hack shadow", in the terminal
 # CIPHER_OS
 CIPHER_OS is a self-contained, zero-dependency desktop environment that runs entirely in your browser. It features a windowed UI, a custom scripting language, a suite of built-in apps, and a dual-mode aesthetic system that lets you flip between a clean dark workspace.
 
-Do note that most of the features are written by claude. And i am rewriitng the entire os.
+Do note that most of the features of the operating system are written by claude. And i am rewriitng the entire os.
 
 ---
 
