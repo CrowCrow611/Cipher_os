@@ -38,7 +38,9 @@ Do note that most of the features of the operating system are written by claude.
 | Subtle gradients | CRT scanlines + film grain noise |
 | Standard accent colors | Neon glow effects on all UI elements |
 
-Toggle between modes from the taskbar or via the Terminal using privilege escalation.
+## the hack mode
+![DIff Screenshot](https://github.com/CrowCrow611/Cipher_os/blob/8d53aa3d4658b1bd7f36424ef49d0156a034ab64/root%20shell%20and%20terminal.png)
+
 
 ### Customization
 - **12 wallpapers** — Default, Grid, Pure Dark, Stars, Aurora, Sunset, Ocean, Matrix, Neon City, Vaporwave, Carbon, Copper
