@@ -27,6 +27,7 @@ Do note that most of the features of the operating system are written by claude.
 - **Window previews** on taskbar hover
 
 ## Lets take a look at the desktop.
+![Desktop Screenshot](https://github.com/CrowCrow611/Cipher_os/blob/dd579da6459d71ae8be681bb9528b6209ae56123/desktop.png)
 
 
 ### Dual Modes
