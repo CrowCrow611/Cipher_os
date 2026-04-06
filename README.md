@@ -220,26 +220,5 @@ CIPHER_OS uses `localStorage` to persist state between sessions:
 
 Settings can be exported as a `.json` file and re-imported at any time.
 
----
-
-## Browser Compatibility
-
-Works in any modern browser that supports:
-- CSS custom properties
-- `localStorage`
-- Canvas API
-- `backdrop-filter`
-
-> No Node.js. No npm. No framework. Just one `.html` file.
-
----
-
-## License
-
-MIT — do whatever you want with it.
-
----
-
-*Built by ghost_agent using CipherScript.*
 
 
