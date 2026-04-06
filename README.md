@@ -26,6 +26,9 @@ Do note that most of the features of the operating system are written by claude.
 - **Taskbar** with start menu, active window list, live clock, and mode toggle
 - **Window previews** on taskbar hover
 
+## Lets take a look at the desktop.
+
+
 ### Dual Modes
 | Normal Mode | Hack Mode |
 |---|---|
