@@ -11,10 +11,9 @@ to go to hack mode just type: "sudo hack shadow", in the terminal
 
 
 # CIPHER_OS
+CIPHER_OS is a self-contained, zero-dependency desktop environment that runs entirely in your browser. It features a windowed UI, a custom scripting language, a suite of built-in apps, and a dual-mode aesthetic system that lets you flip between a clean dark workspace.
 
-> A fully-featured browser-based operating system simulation — built as a single HTML file.
-
-CIPHER_OS is a self-contained, zero-dependency desktop environment that runs entirely in your browser. It features a windowed UI, a custom scripting language, a suite of built-in apps, and a dual-mode aesthetic system that lets you flip between a clean dark workspace and a full hacker terminal vibe.
+Do note that most of the features are written by claude. And i am rewriitng the entire os.
 
 ---
 
@@ -179,18 +178,6 @@ loop i :: 1 to 20 ->
   ::
 ::
 ```
-
----
-
-## Getting Started
-
-CIPHER_OS requires no build step, no server, and no dependencies.
-
-1. **Download** `cipher_os.html`
-2. **Open** it in any modern browser (Chrome, Firefox, Edge, Safari)
-3. **Log in** — default password is `cipher` (changeable in Settings → Security)
-
-That's it. Everything runs client-side.
 
 ---
 
