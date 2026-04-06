@@ -188,9 +188,7 @@ loop i :: 1 to 20 ->
 | `Ctrl + Enter` | Run CipherScript |
 | `Ctrl + S` | Save script |
 | `Tab` | Insert 2-space indent in editor |
-| `←` `→` `↑` `↓` | Tetris movement / rotation |
-| `Space` | Tetris hard drop |
-| `C` / `Shift` | Tetris hold piece |
+| `Ctrl + K` | Opens quick calculator |
 
 ---
 
